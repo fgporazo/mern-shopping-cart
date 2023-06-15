@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-shopping-cart/static/css/main.65b2bede.css",
+    "main.js": "/mern-shopping-cart/static/js/main.2fa076e4.js",
+    "static/js/478.9fdc06cb.chunk.js": "/mern-shopping-cart/static/js/478.9fdc06cb.chunk.js",
+    "index.html": "/mern-shopping-cart/index.html",
+    "main.65b2bede.css.map": "/mern-shopping-cart/static/css/main.65b2bede.css.map",
+    "main.2fa076e4.js.map": "/mern-shopping-cart/static/js/main.2fa076e4.js.map",
+    "478.9fdc06cb.chunk.js.map": "/mern-shopping-cart/static/js/478.9fdc06cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b2bede.css",
+    "static/js/main.2fa076e4.js"
+  ]
+}
